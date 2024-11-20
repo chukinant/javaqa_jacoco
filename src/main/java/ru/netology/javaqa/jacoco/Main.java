@@ -1,4 +1,4 @@
-package ru.netology.javaqa.cycles;
+package ru.netology.javaqa.jacoco;
 
 public class Main {
     public static void main(String[] args) {
